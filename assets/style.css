@@ -1,0 +1,43 @@
+.container-fluid{
+    border-bottom: 2px solid #cccc;
+    background: #ffffff;
+    height:80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+a:link {
+    color:#cccc;
+    text-decoration: none;
+}
+a:visited {
+    color:#4aaaa5;
+    text-decoration: none;
+}
+a:hover { 
+    color: orange; 
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float:left;
+    /* margin-left:290px;
+    margin-top:0; */
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color:white;
+    font-size:24px;
+    background-color: #4aaaa5;
+}
+
+#main-container{
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    clear:both;
+    border: 2px solid #dddd;
+    background-color: white;
+}
+
